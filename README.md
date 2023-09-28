@@ -1,25 +1,19 @@
-## Tailwind CSS Practice
+# Tailwind CSS Practice
 
------
-
-### Tech Stack
+## Tech Stack
 
 ```
 - HTML
 - Tailwind CSS
 ```
 
------
-
-### List
+## List
 
 1. Facebook Login Page
 2. Quotes Card
 3. Price Grid
 
------
-
-### Sample Images
+## Sample Images
 
 Facebook Login Page
 
